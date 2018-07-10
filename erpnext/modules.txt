@@ -1,0 +1,6 @@
+erpnext
+projects
+hr
+selling
+Setup
+Manufacturing
