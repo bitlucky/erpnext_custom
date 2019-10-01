@@ -2,6 +2,7 @@
 
 Open Source ERP
 
+
 #### License
 
-MIT
+MIT License
